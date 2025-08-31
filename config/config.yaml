@@ -1,0 +1,131 @@
+# CosyVoice2.0 TTS 系统配置文件
+
+# 模型配置
+model:
+  name: "cosyvoice2.0"
+  path: "models/cosyvoice2.0.pth"
+  device: "auto"  # auto, cpu, cuda
+  batch_size: 1
+  max_text_length: 500
+
+# 音频配置
+audio:
+  sample_rate: 22050
+  hop_length: 256
+  win_length: 1024
+  n_fft: 1024
+  mel_channels: 80
+  mel_fmin: 0
+  mel_fmax: 8000
+
+# 语音包配置
+voice_packs:
+  default:
+    name: "默认语音包"
+    description: "标准中文语音包"
+    speaker_id: 0
+    emotion: "neutral"
+    speed: 1.0
+    pitch: 0
+    energy: 1.0
+    language: "zh-CN"
+    gender: "unknown"
+    style: "neutral"
+  
+  female:
+    name: "女声语音包"
+    description: "温柔女声"
+    speaker_id: 1
+    emotion: "gentle"
+    speed: 1.0
+    pitch: 2
+    energy: 0.9
+    language: "zh-CN"
+    gender: "female"
+    style: "gentle"
+  
+  male:
+    name: "男声语音包"
+    description: "磁性男声"
+    speaker_id: 2
+    emotion: "deep"
+    speed: 0.9
+    pitch: -2
+    energy: 1.1
+    language: "zh-CN"
+    gender: "male"
+    style: "deep"
+  
+  child:
+    name: "儿童语音包"
+    description: "活泼可爱的儿童声音"
+    speaker_id: 3
+    emotion: "happy"
+    speed: 1.2
+    pitch: 4
+    energy: 1.2
+    language: "zh-CN"
+    gender: "unknown"
+    style: "cute"
+  
+  elder:
+    name: "老年语音包"
+    description: "慈祥的老年声音"
+    speaker_id: 4
+    emotion: "calm"
+    speed: 0.8
+    pitch: -1
+    energy: 0.8
+    language: "zh-CN"
+    gender: "unknown"
+    style: "wise"
+  
+  robot:
+    name: "机器人语音包"
+    description: "科技感的机器人声音"
+    speaker_id: 5
+    emotion: "neutral"
+    speed: 0.9
+    pitch: 0
+    energy: 1.0
+    language: "zh-CN"
+    gender: "unknown"
+    style: "robotic"
+  
+  angry:
+    name: "愤怒语音包"
+    description: "愤怒情绪的声音"
+    speaker_id: 6
+    emotion: "angry"
+    speed: 1.1
+    pitch: 1
+    energy: 1.3
+    language: "zh-CN"
+    gender: "unknown"
+    style: "angry"
+  
+  sad:
+    name: "悲伤语音包"
+    description: "悲伤情绪的声音"
+    speaker_id: 7
+    emotion: "sad"
+    speed: 0.8
+    pitch: -1
+    energy: 0.7
+    language: "zh-CN"
+    gender: "unknown"
+    style: "sad"
+
+# 输出配置
+output:
+  format: "wav"  # wav, mp3, flac
+  quality: "high"  # low, medium, high
+  normalize: true
+  trim_silence: true
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  file: "logs/tts.log"
+  max_size: "10MB"
+  backup_count: 5 

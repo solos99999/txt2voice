@@ -1,0 +1,50 @@
+{
+  "engine_display_names": {
+    "edge_tts": "Edge-TTS (微软)",
+    "cosyvoice": "CosyVoice2.0 (阿里)",
+    "gtts": "Google TTS",
+    "pyttsx3": "系统TTS"
+  },
+  "engine_order": [
+    "edge_tts",
+    "cosyvoice", 
+    "gtts",
+    "pyttsx3"
+  ],
+  "voice_pack_categories": {
+    "edge_tts": {
+      "female_voices": {
+        "name": "女声",
+        "filter": "Female"
+      },
+      "male_voices": {
+        "name": "男声", 
+        "filter": "Male"
+      },
+      "multilingual": {
+        "name": "多语言",
+        "filter": "Multilingual"
+      },
+      "dialects": {
+        "name": "方言",
+        "filter": "henan|liaoning|shaanxi|shandong|sichuan"
+      }
+    },
+    "cosyvoice": {
+      "emotional": {
+        "name": "情感语音",
+        "voices": ["emotional", "warm", "professional"]
+      },
+      "basic": {
+        "name": "基础语音", 
+        "voices": ["default", "female", "male"]
+      }
+    }
+  },
+  "ui_settings": {
+    "show_engine_info": true,
+    "show_voice_pack_info": true,
+    "group_voices_by_category": false,
+    "max_voices_per_engine": 50
+  }
+}

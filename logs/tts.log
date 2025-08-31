@@ -1,0 +1,133 @@
+2025-08-31 20:56:11 - src.core.voice_pack_manager - INFO - 为引擎 edge_tts 创建了 8 个语音包
+2025-08-31 20:56:11 - src.core.voice_pack_manager - INFO - 为引擎 gtts 创建了 8 个语音包
+2025-08-31 20:56:11 - src.core.voice_pack_manager - INFO - 为引擎 pyttsx3 创建了 8 个语音包
+2025-08-31 20:56:11 - src.core.voice_pack_manager - INFO - 为引擎 cosyvoice 创建了 8 个语音包
+2025-08-31 20:56:11 - src.core.voice_pack_manager - INFO - 总共加载了 8 个基础语音包
+2025-08-31 20:56:11 - src.core.edge_tts_integration - INFO - Edge-TTS集成初始化
+2025-08-31 20:56:11 - src.core.gtts_integration - INFO - gTTS集成初始化
+2025-08-31 20:56:11 - src.core.pyttsx3_integration - INFO - pyttsx3集成初始化
+2025-08-31 20:56:11 - src.core.real_cosyvoice_integration - INFO - 真实CosyVoice2.0集成初始化，设备: cpu
+2025-08-31 20:56:11 - src.core.tts_engine - INFO - TTS引擎初始化完成，设备: cpu
+2025-08-31 20:56:12 - cosyvoice_tts - INFO - 启动CosyVoice2.0 TTS图形界面
+2025-08-31 20:56:12 - src.core.tts_engine - INFO - 正在加载TTS引擎...
+2025-08-31 20:56:12 - src.core.edge_tts_integration - INFO - 正在加载Edge-TTS模型...
+2025-08-31 20:56:12 - src.core.edge_tts_integration - INFO - ✓ Edge-TTS可用
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO - 找到 36 个中文语音
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoNeural: Xiaoxiao (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiNeural: Yunxi (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunjianNeural: Yunjian (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyiNeural: Xiaoyi (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyangNeural: Yunyang (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaochenNeural: Xiaochen (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaochenMultilingualNeural: Xiaochen Multilingual (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaohanNeural: Xiaohan (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaomengNeural: Xiaomeng (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaomoNeural: Xiaomo (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoqiuNeural: Xiaoqiu (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaorouNeural: Xiaorou (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoruiNeural: Xiaorui (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoshuangNeural: Xiaoshuang (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoDialectsNeural: Xiaoxiao Dialects (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoMultilingualNeural: Xiaoxiao Multilingual (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyanNeural: Xiaoyan (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyouNeural: Xiaoyou (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyuMultilingualNeural: Xiaoyu Multilingual (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaozhenNeural: Xiaozhen (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunfengNeural: Yunfeng (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunhaoNeural: Yunhao (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunjieNeural: Yunjie (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiaNeural: Yunxia (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiaoMultilingualNeural: Yunxiao Multilingual (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyeNeural: Yunye (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyiMultilingualNeural: Yunyi Multilingual (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunzeNeural: Yunze (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-YunfanMultilingualNeural: Yunfan Multilingual (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-Xiaochen:DragonHDLatestNeural: Xiaochen Dragon HD Latest (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-Yunfan:DragonHDLatestNeural: Yunfan Dragon HD Latest (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-henan-YundengNeural: Yundeng (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-liaoning-XiaobeiNeural: Xiaobei (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-shaanxi-XiaoniNeural: Xiaoni (Female)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-shandong-YunxiangNeural: Yunxiang (Male)
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO -   - zh-CN-sichuan-YunxiNeural: YunxiSichuan (Male)
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - ✓ Edge-TTS (微软TTS服务) 加载成功
+2025-08-31 20:56:14 - src.core.gtts_integration - INFO - 正在加载gTTS模型...
+2025-08-31 20:56:14 - src.core.gtts_integration - ERROR - gTTS未安装
+2025-08-31 20:56:14 - src.core.tts_engine - WARNING - ✗ gTTS (Google TTS服务) 加载失败
+2025-08-31 20:56:14 - src.core.pyttsx3_integration - INFO - 正在加载pyttsx3模型...
+2025-08-31 20:56:14 - src.core.pyttsx3_integration - ERROR - pyttsx3未安装
+2025-08-31 20:56:14 - src.core.tts_engine - WARNING - ✗ pyttsx3 (离线TTS) 加载失败
+2025-08-31 20:56:14 - src.core.real_cosyvoice_integration - WARNING - 模型路径不存在: models/CosyVoice2-0.5B
+2025-08-31 20:56:14 - src.core.real_cosyvoice_integration - INFO - 使用高质量备用CosyVoice实现
+2025-08-31 20:56:14 - src.core.real_cosyvoice_integration - INFO - ✅ 高质量备用CosyVoice模型加载成功
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - ✓ CosyVoice2.0 (真实版) 加载成功
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - 成功加载 2 个TTS引擎: edge_tts, cosyvoice
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - 当前使用引擎: edge_tts
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - 切换到引擎: edge_tts
+2025-08-31 20:56:14 - cosyvoice_tts - INFO - 正在加载TTS模型...
+2025-08-31 20:56:14 - src.core.tts_engine - INFO - 正在加载TTS引擎...
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO - 正在加载Edge-TTS模型...
+2025-08-31 20:56:14 - src.core.edge_tts_integration - INFO - ✓ Edge-TTS可用
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO - 找到 36 个中文语音
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoNeural: Xiaoxiao (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiNeural: Yunxi (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunjianNeural: Yunjian (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyiNeural: Xiaoyi (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyangNeural: Yunyang (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaochenNeural: Xiaochen (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaochenMultilingualNeural: Xiaochen Multilingual (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaohanNeural: Xiaohan (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaomengNeural: Xiaomeng (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaomoNeural: Xiaomo (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoqiuNeural: Xiaoqiu (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaorouNeural: Xiaorou (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoruiNeural: Xiaorui (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoshuangNeural: Xiaoshuang (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoDialectsNeural: Xiaoxiao Dialects (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoxiaoMultilingualNeural: Xiaoxiao Multilingual (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyanNeural: Xiaoyan (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyouNeural: Xiaoyou (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaoyuMultilingualNeural: Xiaoyu Multilingual (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-XiaozhenNeural: Xiaozhen (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunfengNeural: Yunfeng (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunhaoNeural: Yunhao (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunjieNeural: Yunjie (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiaNeural: Yunxia (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunxiaoMultilingualNeural: Yunxiao Multilingual (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyeNeural: Yunye (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunyiMultilingualNeural: Yunyi Multilingual (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunzeNeural: Yunze (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-YunfanMultilingualNeural: Yunfan Multilingual (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-Xiaochen:DragonHDLatestNeural: Xiaochen Dragon HD Latest (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-Yunfan:DragonHDLatestNeural: Yunfan Dragon HD Latest (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-henan-YundengNeural: Yundeng (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-liaoning-XiaobeiNeural: Xiaobei (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-shaanxi-XiaoniNeural: Xiaoni (Female)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-shandong-YunxiangNeural: Yunxiang (Male)
+2025-08-31 20:56:16 - src.core.edge_tts_integration - INFO -   - zh-CN-sichuan-YunxiNeural: YunxiSichuan (Male)
+2025-08-31 20:56:16 - src.core.tts_engine - INFO - ✓ Edge-TTS (微软TTS服务) 加载成功
+2025-08-31 20:56:16 - src.core.gtts_integration - INFO - 正在加载gTTS模型...
+2025-08-31 20:56:16 - src.core.gtts_integration - ERROR - gTTS未安装
+2025-08-31 20:56:16 - src.core.tts_engine - WARNING - ✗ gTTS (Google TTS服务) 加载失败
+2025-08-31 20:56:16 - src.core.pyttsx3_integration - INFO - 正在加载pyttsx3模型...
+2025-08-31 20:56:16 - src.core.pyttsx3_integration - ERROR - pyttsx3未安装
+2025-08-31 20:56:16 - src.core.tts_engine - WARNING - ✗ pyttsx3 (离线TTS) 加载失败
+2025-08-31 20:56:16 - src.core.real_cosyvoice_integration - WARNING - 模型路径不存在: models/CosyVoice2-0.5B
+2025-08-31 20:56:16 - src.core.real_cosyvoice_integration - INFO - 使用高质量备用CosyVoice实现
+2025-08-31 20:56:16 - src.core.real_cosyvoice_integration - INFO - ✅ 高质量备用CosyVoice模型加载成功
+2025-08-31 20:56:16 - src.core.tts_engine - INFO - ✓ CosyVoice2.0 (真实版) 加载成功
+2025-08-31 20:56:16 - src.core.tts_engine - INFO - 成功加载 4 个TTS引擎: edge_tts, cosyvoice, edge_tts, cosyvoice
+2025-08-31 20:56:16 - src.core.tts_engine - INFO - 当前使用引擎: edge_tts
+2025-08-31 20:56:16 - cosyvoice_tts - INFO - 模型加载成功
+2025-08-31 20:56:16 - cosyvoice_tts - INFO - 图形界面启动完成
+2025-08-31 20:58:27 - src.core.tts_engine - INFO - 开始合成文本: 从前，在森林广场开了一个百货大楼和一个日用百货用品店，百货大楼的经营者是猩猩大叔...
+2025-08-31 20:58:27 - src.core.edge_tts_integration - INFO - Edge-TTS合成文本: 从前，在森林广场开了一个百货大楼和一个日用百货用品店，百货大楼的经营者是猩猩大叔... (语音: zh-CN-YunxiNeural)
+2025-08-31 20:58:32 - src.core.edge_tts_integration - INFO - Edge-TTS语音合成完成
+2025-08-31 20:59:40 - src.core.tts_engine - INFO - 开始合成文本: 有一个小伙叫做小帅，有个姑娘叫做小美。这一天，小帅早上起来突然发现世界和过去不一样了...
+2025-08-31 20:59:40 - src.core.edge_tts_integration - INFO - Edge-TTS合成文本: 有一个小伙叫做小帅，有个姑娘叫做小美。这一天，小帅早上起来突然发现世界和过去不一样了... (语音: zh-CN-YunxiNeural)
+2025-08-31 20:59:43 - src.core.edge_tts_integration - INFO - Edge-TTS语音合成完成
+2025-08-31 21:04:10 - src.core.tts_engine - INFO - 开始合成文本: 从前，森林里有一个广场，广场上有一个百货大楼和一个日用品商店，百货大楼的经营者是猩猩大哥，日用品商店...
+2025-08-31 21:04:10 - src.core.edge_tts_integration - INFO - Edge-TTS合成文本: 从前，森林里有一个广场，广场上有一个百货大楼和一个日用品商店，百货大楼的经营者是猩猩大哥，日用品商店... (语音: zh-CN-YunxiNeural)
+2025-08-31 21:04:14 - src.core.edge_tts_integration - INFO - Edge-TTS语音合成完成
+2025-08-31 21:07:17 - src.core.tts_engine - INFO - 开始合成文本: 从前有个人叫小帅，他来到了中央森林广场里，他看到了广场有5个岔路，他走到其中一个岔路。他走呀走，发现...
+2025-08-31 21:07:17 - src.core.edge_tts_integration - INFO - Edge-TTS合成文本: 从前有个人叫小帅，他来到了中央森林广场里，他看到了广场有5个岔路，他走到其中一个岔路。他走呀走，发现... (语音: zh-CN-YunxiNeural)
+2025-08-31 21:07:21 - src.core.edge_tts_integration - INFO - Edge-TTS语音合成完成
