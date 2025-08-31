@@ -1,16 +1,16 @@
-# 🎤 CosyVoice TTS - 高质量中文语音合成系统
+# 🎤 中文语音合成系统
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/your-repo/CosyVoiceTTS)
 
-一个功能完整的中文语音合成系统，集成了多种TTS引擎，提供高质量的语音输出和直观的图形界面。
+一个功能完整(xiaciniubi)的中文语音合成系统，集成了多种TTS引擎(实际上好用的没几个)，提供高质量的语音输出和直观的（丑了吧唧）图形界面。
 
 ## ✨ 主要特性
 
 ### 🎯 双引擎支持
-- **Edge-TTS**: 微软在线语音服务，36+ 中文语音包
-- **CosyVoice2.0**: 高质量离线语音合成，支持自然语音生成
+- **Edge-TTS**: 微软在线语音服务，36+ 中文语音包（支持了）
+- **CosyVoice2.0**: 高质量离线语音合成，支持自然语音生成（假装支持了）
 
 ### 🖥️ 图形界面
 - 直观的PyQt5图形界面
@@ -26,7 +26,7 @@
 
 ## 🚀 快速开始
 
-###虚拟环境运行
+###虚拟环境运行（建议搞个虚拟环境运行和调试，特别是用完以后就很容易忘掉那种虚拟环境，可以按照下面的命令抢救一下）
 # Windows (当前系统)
 .venv\Scripts\activate
 
@@ -47,8 +47,8 @@ python gui.py
 - **Python**: 3.8 或更高版本
 - **操作系统**: Windows 10/11, macOS 10.14+, Ubuntu 18.04+
 - **内存**: 最少 2GB RAM
-- **磁盘空间**: 约 100MB（轻量版）或 5GB+（完整版）
-- **网络**: Edge-TTS 需要网络连接
+- **磁盘空间**: 约 100MB（轻量版）或 5GB+（完整版）（完整版什么的不存在，不要信）
+- **网络**: Edge-TTS 需要网络连接（似乎不用也行，自己试试再说吧）
 
 ## 📦 依赖包
 
@@ -268,5 +268,6 @@ python create_simple_portable.py
 - ✅ 支持多种部署方式（直接运行、便携版、可执行文件）
 
 ---
+
 
 **⭐ 如果这个项目对您有帮助，请给我们一个星标！**
